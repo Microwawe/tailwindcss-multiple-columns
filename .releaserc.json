@@ -5,18 +5,18 @@
 			"@semantic-release/commit-analyzer",
 			{
 				"releaseRules": [
-					{"tag": "BREAKING CHANGE:", "release": "major"},
-					{"tag": "feat:", "release": "minor"},
-					{"tag": "fix:", "release": "patch"},
-					{"tag": "docs:", "release": "patch"},
-					{"tag": "style:", "release": "patch"},
-					{"tag": "refactor:", "release": "patch"},
-					{"tag": "perf:", "release": "patch"},
-					{"tag": "test:", "release": "patch"},
-					{"tag": "build:", "release": "patch"},
-					{"tag": "ci:", "release": "patch"},
-					{"tag": "chore:", "release": "patch"},
-					{"tag": "revert:", "release": "major"}
+					{"tag": "BREAKING CHANGE", "release": "major"},
+					{"tag": "feat", "release": "minor"},
+					{"tag": "fix", "release": "patch"},
+					{"tag": "docs", "release": "patch"},
+					{"tag": "style", "release": "patch"},
+					{"tag": "refactor", "release": "patch"},
+					{"tag": "perf", "release": "patch"},
+					{"tag": "test", "release": "patch"},
+					{"tag": "build", "release": "patch"},
+					{"tag": "ci", "release": "patch"},
+					{"tag": "chore", "release": "patch"},
+					{"tag": "revert", "release": "major"}
 				]
 			}
 		],
@@ -24,18 +24,18 @@
 			"@semantic-release/release-notes-generator",
 			{
 				"releaseRules": [
-					{"tag": "BREAKING CHANGE:", "release": "major"},
-					{"tag": "feat:", "release": "minor"},
-					{"tag": "fix:", "release": "patch"},
-					{"tag": "docs:", "release": "patch"},
-					{"tag": "style:", "release": "patch"},
-					{"tag": "refactor:", "release": "patch"},
-					{"tag": "perf:", "release": "patch"},
-					{"tag": "test:", "release": "patch"},
-					{"tag": "build:", "release": "patch"},
-					{"tag": "ci:", "release": "patch"},
-					{"tag": "chore:", "release": "patch"},
-					{"tag": "revert:", "release": "major"}
+					{"tag": "BREAKING CHANGE", "release": "major"},
+					{"tag": "feat", "release": "minor"},
+					{"tag": "fix", "release": "patch"},
+					{"tag": "docs", "release": "patch"},
+					{"tag": "style", "release": "patch"},
+					{"tag": "refactor", "release": "patch"},
+					{"tag": "perf", "release": "patch"},
+					{"tag": "test", "release": "patch"},
+					{"tag": "build", "release": "patch"},
+					{"tag": "ci", "release": "patch"},
+					{"tag": "chore", "release": "patch"},
+					{"tag": "revert", "release": "major"}
 				]
 			}
 		],
